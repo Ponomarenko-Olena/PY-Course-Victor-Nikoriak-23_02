@@ -28,5 +28,5 @@ modules:
     slug: python-intermediate
     title: "Module 2 — Python Intermediate"
     path: module_2/lessons
-    lessons: []
+    lessons: [13, 14, 15]
 
